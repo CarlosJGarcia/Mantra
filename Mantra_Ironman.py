@@ -10,6 +10,10 @@ mantra = ["Confío en mí. He entrenado lo mejor que he podido y domino la dista
 mantra.append("Los demás compiten conmigo, pero no son mis adversarios. Compito para mí.")
 mantra.append("El triatlón debo verlo como algo divertido. Alegría y diversión pese a la dificultad, porque tengo el privilegio de deslizarme en el agua, viajar en bici y superar una larga distancia corriendo. Soy un privilegiado por ello.")
 mantra.append("No tengo miedo pero las distancias me imponen respeto. Es natural.")
+mantra.append("Esta prueba es mi prueba, porque me ofrece la posibilidad de demostrar mi verdadera capacidad.")
+mantra.append("No me importa en absoluto lo que hacen los demás. Me concentro en mí y en mi esfuerto.")
+mantra.append("Me oriento en mi cuerpo, mi mente, mis datos, mis sensaciones.")
+mantra.append("La tensión interna me sirve para motivarme para la competición y me ayuda en el rendimiento deportivo a desarrollar.")
 
 print("\nMantra del Ironman")
 n = 1
