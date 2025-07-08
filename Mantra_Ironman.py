@@ -1,5 +1,4 @@
 # Mantra del Ironman en Python 17/Jun/2025
-# Pulsar F5 para ejecutar el código en IDLE
 # Pulsar Ctrl+F5 para ejecutar el código en VSCode
 # En macOS, para que funcione F5, pulsar Fn (globo terráqueo) + F5
 # $ git add Mantra_Ironman.py
